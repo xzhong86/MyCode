@@ -9,3 +9,6 @@ Last modified in 2014-09-17. It's a one file tool in Perl for find test logs and
 
 ## core-monitor.rb
 Last modified in 2016-06-15. It's a piece of my fsdb-tracer project, which is an implementation of DSL coding style in Ruby script. FSDB tracer is a tool to read fsdb file and translate signals into messages (for bug/performance analysising)
+
+## hasim_result.rb
+Last modified in 2017-11-14. Basic version finished in 2016-02. A tool contains multi-thread/yaml/csv/optparse/ostruct/.etc for reading longs / checking result / calculating score. and it's a powerful template for ruby scripts. (files in bruce/ are not uploaded）
