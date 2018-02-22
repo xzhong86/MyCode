@@ -1,5 +1,5 @@
 # MyCode
-Here are some favorite coding practice of mine
+Here are some of my favorite coding practices.
 
 ## tcResult.pl
 Last modified in 2014-05-23. It's a simple tool to run test cases and get results. With simple class and options parser.
