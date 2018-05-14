@@ -15,3 +15,10 @@ Last modified in 2017-11-14. Basic version finished in 2016-02. A tool contains 
 
 ## DynamicJIT.cpp
 Finished in 2017-08-21. A piece of Dynamic Generating code (JIT). To get high speed algorithm.
+
+## disarm64.rb
+An ARM64 instruction code disassembler tool through XML data
+
+## rubybmp
+A toolkit to encode data into BMP file and extract data from BMP
+
