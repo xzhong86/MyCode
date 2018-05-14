@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# zhongzhiping z00249865, diagnose test failure feature
+# BruceZh, diagnose test failure feature
 
 use strict;
 use threads;
